@@ -67,7 +67,7 @@ try:
  from cfonts import render, say
 except:
     os.system('pip install python-cfonts')
-output = render('XNXN',colors=['red','white'], align='center')
+output = render('WDEH',colors=['red','white'], align='center')
 print(output)
 print(GG+'-'*1+W+'{ '*1+GG+'@WDEH_ALROSE'*1+W+' }'*1+GG+'-'*1+W+'{'*1+Z1+' 𝐖𝐃𝐄𝐇׀𝐁𝐘𓅓'*1+W+' }'*1+F'-'*1+GG+W+'{'*1+GG+'@YRWSYY'*1+W+'}'*1)
 print('')
